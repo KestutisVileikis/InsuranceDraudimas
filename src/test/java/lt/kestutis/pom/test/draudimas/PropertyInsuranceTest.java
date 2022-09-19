@@ -1,8 +1,8 @@
-package lt.kestutis.pom.utils.test.draudimas;
+package lt.kestutis.pom.test.draudimas;
 
-import lt.kestutis.pom.utils.pages.draudimas.DraudimasHomePages;
-import lt.kestutis.pom.utils.pages.draudimas.PropertyInsurancePages;
-import lt.kestutis.pom.utils.pages.draudimas.VehicleInsurancePages;
+import lt.kestutis.pom.pages.draudimas.DraudimasHomePages;
+import lt.kestutis.pom.pages.draudimas.PropertyInsurancePages;
+import lt.kestutis.pom.test.TestBases;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;

@@ -1,6 +1,7 @@
-package lt.kestutis.pom.utils.test.draudimas;
+package lt.kestutis.pom.test;
 
-import lt.kestutis.pom.utils.pages.Common;
+import lt.kestutis.pom.pages.Common;
+import lt.kestutis.pom.utils.TestListener;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Listeners;
 

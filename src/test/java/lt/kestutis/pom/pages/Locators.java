@@ -1,4 +1,4 @@
-package lt.kestutis.pom.utils.pages.draudimas;
+package lt.kestutis.pom.pages;
 
 import org.openqa.selenium.By;
 

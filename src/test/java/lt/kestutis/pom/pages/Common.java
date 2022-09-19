@@ -1,4 +1,4 @@
-package lt.kestutis.pom.utils.pages;
+package lt.kestutis.pom.pages;
 
 import lt.kestutis.pom.utils.Driver;
 import org.openqa.selenium.By;

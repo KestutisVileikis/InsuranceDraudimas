@@ -1,6 +1,7 @@
-package lt.kestutis.pom.utils.pages.draudimas;
+package lt.kestutis.pom.pages.draudimas;
 
-import lt.kestutis.pom.utils.pages.Common;
+import lt.kestutis.pom.pages.Common;
+import lt.kestutis.pom.pages.Locators;
 
 public class CivilInsurancePages {
 

@@ -1,4 +1,4 @@
-package lt.kestutis.pom.utils.test.draudimas;
+package lt.kestutis.pom.utils;
 
 import lt.kestutis.pom.utils.Driver;
 import org.apache.commons.io.FileUtils;
